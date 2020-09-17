@@ -5,6 +5,9 @@ O projeto presente está voltado para predizer a evasão dos estudantes da Unive
 <!-- toc -->
   * [Dados](#grupos)
   * [Documentação](#documentação)
+  * [Cursos](#cursos)
+  * [Referências](#referências)
+  * [Redes Sociais](#redes-sociais)
 <!-- toc stop -->
 
 ## Dados
@@ -12,3 +15,11 @@ O projeto presente está voltado para predizer a evasão dos estudantes da Unive
  
 ## Documentação
  - [Documentos] Em desenvolvimento
+ 
+## Cursos
+
+## Referências
+
+## Redes Sociais
+ - [Instagram](https://www.instagram.com/nicollasivanno/)
+ - [Facebook](https://www.facebook.com/nicollas.ivanno/)
