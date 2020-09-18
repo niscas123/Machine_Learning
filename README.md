@@ -17,9 +17,11 @@ O projeto presente está voltado para predizer a evasão dos estudantes da Unive
  - [Documentos] Em desenvolvimento
  
 ## Cursos
+ - [Professor Danilo](https://www.youtube.com/c/ProfDaniloDS/playlists)
 
 ## Referências
 
 ## Redes Sociais
+ - [Linkedin] (https://www.linkedin.com/in/n%C3%ADcollas-ivanno-093532134/)
  - [Instagram](https://www.instagram.com/nicollasivanno/)
  - [Facebook](https://www.facebook.com/nicollas.ivanno/)
