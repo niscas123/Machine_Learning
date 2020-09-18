@@ -1,4 +1,4 @@
-## Machine Learning
+# Machine Learning
 O projeto presente está voltado para predizer a evasão dos estudantes da Universidade de Pernambuco - Campus Garanhuns, aplicando então algoritmos de Aprendizado de Máquina para classificar as possíveis causas de retenção desses discentes.
 
 ## Conteúdo
@@ -18,6 +18,7 @@ O projeto presente está voltado para predizer a evasão dos estudantes da Unive
  
 ## Cursos
  - [Professor Danilo](https://www.youtube.com/c/ProfDaniloDS/playlists)
+ - [Zurubabel](https://www.youtube.com/c/Zurubabel/playlists)
 
 ## Referências
 
