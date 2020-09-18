@@ -17,8 +17,8 @@ O projeto presente está voltado para predizer a evasão dos estudantes da Unive
  - [Documentos] Em desenvolvimento
  
 ## Cursos
- - [Professor Danilo][<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/c/ProfDaniloDS/playlists)
- - [Zurubabel][<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/c/Zurubabel/playlists)
+ - [Professor Danilo](https://www.youtube.com/c/ProfDaniloDS/playlists)
+ - [Zurubabel](https://www.youtube.com/c/Zurubabel/playlists)
 
 ## Referências
 
